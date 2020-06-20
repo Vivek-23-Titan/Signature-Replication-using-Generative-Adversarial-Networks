@@ -15,8 +15,7 @@ The generated and original images
 ![](Images/Generated_Images.PNG)
 
 The training history of Deep Convolutional Classifier trained on generated data and validated on original data
-
-![](Images/Training_History.PNG)
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Training_History.PNG" width=400>
 
 Confusion matrix of the validation data/test data
 
