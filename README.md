@@ -20,7 +20,7 @@ The training history of Deep Convolutional Classifier trained on generated data 
 
 Confusion matrix of the validation data/test data
 
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/GAN_Confusion_Matrix.PNG" width=300 align=right>
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/GAN_Confusion_Matrix.PNG" width=500>
 
 ### Requirements
 Tensorflow 1.15
