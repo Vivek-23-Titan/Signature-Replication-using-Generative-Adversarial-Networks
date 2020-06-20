@@ -19,7 +19,7 @@ The training history of Deep Convolutional Classifier trained on generated data 
 ![](Images/Training_History.PNG)
 
 Confusion matrix of the validation data/test data
-![|32x32, 20%](Images/GAN_Confusion_Matrix.PNG)
+![|1024x1024, 20%](Images/GAN_Confusion_Matrix.PNG)
 
 ### Requirements
 Tensorflow 1.15
