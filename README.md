@@ -14,8 +14,7 @@ The generated and original images are shown below:
 
 The accuracy of Deep Convolutional Classifier trained on generated data and validated on original data is shown below.
 
-Validation data Confusion Matrix
-
+Confusion matrix of the validation data/test data
 
 ### Requirements
 Tensorflow 1.15
