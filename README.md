@@ -9,17 +9,17 @@ The Dataset consists of 10 different signature, each class having 100 instances.
 The Code is available in the Jupyter notebook.
 
 ### Results
-The generated and original images
-![](Images/Original_Images.PNG)
+#### The generated and original images
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Original_Images.PNG" width=700>
 
-![](Images/Generated_Images.PNG)
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Generated_Images.PNG" width=700>
 
-The training history of Deep Convolutional Classifier trained on generated data and validated on original data
+##### The training history of Deep Convolutional Classifier trained on generated data and validated on original data
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Training_History.PNG" width=450>
 
 The graph is underfitting due to high dropout of 0.6.
 
-Confusion matrix of the validation data/test data
+#### Confusion matrix of the validation data/test data
 
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/GAN_Confusion_Matrix.PNG" width=600>
 
