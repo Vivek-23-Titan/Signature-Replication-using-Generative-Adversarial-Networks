@@ -19,8 +19,7 @@ The training history of Deep Convolutional Classifier trained on generated data 
 ![](Images/Training_History.PNG)
 
 Confusion matrix of the validation data/test data
-
-![](Images/GAN_Confusion_Matrix.PNG =250x250)
+<img src="https://assets-cdn.github.com/Images/GAN_Confusion_Matrix.PNG" width="256" height="256" title="Github Logo">![]
 
 
 ### Requirements
