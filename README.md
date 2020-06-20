@@ -22,7 +22,7 @@ Confusion matrix of the validation data/test data
 ![|1024x1024, 20%](Images/GAN_Confusion_Matrix.PNG)
 
 
-<img src="https://Vivek-23-Titan.com/1234567/image.png" width=300 align=right>
+<img src="https://Vivek-23-Titan.com/Images/GAN_Confusion_Matrix.PNG" width=300 align=right>
 
 ### Requirements
 Tensorflow 1.15
