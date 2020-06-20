@@ -19,7 +19,7 @@ The training history of Deep Convolutional Classifier trained on generated data 
 ![](Images/Training_History.PNG)
 
 Confusion matrix of the validation data/test data
-<img src="https://assets-cdn.github.com/Images/GAN_Confusion_Matrix.PNG" width="256" height="256" title="Github Logo">![]
+<img src="https://Vivek-23-Titan.github.com/Images/GAN_Confusion_Matrix.PNG" width="256" height="256" title="Github Logo">![]
 
 
 ### Requirements
