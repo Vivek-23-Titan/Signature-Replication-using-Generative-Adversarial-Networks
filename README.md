@@ -10,7 +10,9 @@ The Code is available in the Jupyter notebook.
 
 ### Results
 The generated and original images
-![](Images/Generated_Images.PNG	)
+![](Images/Original_Images.PNG)
+
+![](Images/Generated_Images.PNG)
 
 The training history of Deep Convolutional Classifier trained on generated data and validated on original data
 
