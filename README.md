@@ -9,10 +9,10 @@ The Dataset consists of 10 different signature, each class having 100 instances.
 The Code is available in the Jupyter notebook.
 
 ### Results
-The generated and original images are shown below:
+The generated and original images
 
 
-The accuracy of Deep Convolutional Classifier trained on generated data and validated on original data is shown below.
+The training history of Deep Convolutional Classifier trained on generated data and validated on original data
 
 Confusion matrix of the validation data/test data
 
