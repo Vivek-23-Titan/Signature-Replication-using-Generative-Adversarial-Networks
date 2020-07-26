@@ -3,7 +3,7 @@
 This Project focuses on generating signatures along with their labels of 10 different people with the help of CGAN. With the help of a classifier, we can then classify those images as well as see their effects when used as training data for the classifier.
 
 ### Dataset
-The Dataset consists of 10 different signature, each class having 100 instances.
+The Dataset consists of 1000 signatures, subdivided into 10 different signature classes.
 
 ### Code
 The Code is available in the [Jupyter notebook](https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Copy_of_Signatures_CGAN.ipynb).
