@@ -19,7 +19,7 @@ The Code is available in the [Jupyter notebook](https://github.com/Vivek-23-Tita
 ### Confusion matrix of the validation data/test data
 
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/GAN_Confusion_Matrix.PNG" width=600>
-The accuracy achieved is 98%.
+* The final accuracy achieved is 98%.
 
 ## Requirements
 Tensorflow 1.15
