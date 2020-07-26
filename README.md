@@ -6,7 +6,7 @@ This Project focuses on generating signatures along with their labels of 10 diff
 The Dataset consists of 10 different signature, each class having 100 instances.
 
 ### Code
-The Code is available in the Jupyter notebook.
+The Code is available in the [Jupyter notebook](https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Copy_of_Signatures_CGAN.ipynb).
 
 ### Results
 #### The generated and original images
