@@ -14,6 +14,7 @@ The Code is available in the [Jupyter notebook](https://github.com/Vivek-23-Tita
 
 #### The training history of Deep Convolutional Classifier trained on generated data and validated on original data
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Training_History.PNG" width=450>
+
 * The graph is underfitting due to high dropout of 0.6.
 
 ### Confusion matrix of the validation data/test data
