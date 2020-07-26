@@ -17,7 +17,8 @@ The Code is available in the [Jupyter notebook](https://github.com/Vivek-23-Tita
 
 * The graph is underfitting due to high dropout of 0.6.
 
-### Confusion matrix of the validation data/test data
+### Classification of validation/test set
+3000 signature images were generated and classified using a CNN trained on the original 1000 signature dataset. The confusion matrix of the validation/test set is shown below.
 
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Confusion_Matrix.PNG" width=600>
 
