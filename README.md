@@ -32,7 +32,7 @@ New training dataset is formed having 500 original images and 500 generated imag
 
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/History_94_2500_Epochs.PNG" width=700>
 
-The model achieves approximately 95% accuracy when trained over 2500 epochs.
+* The model achieves approximately 95% accuracy when trained over 2500 epochs.
 
 ### Confusion matrix for classification of the real and generated signatures
 
