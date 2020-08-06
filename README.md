@@ -36,6 +36,7 @@ The model achieves approximately 95% accuracy when trained over 2500 epochs.
 
 ### Confusion matrix for classification of the real and generated signatures
 
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Confusion_Matrix_95.267_Precision_85.4_R.PNG" width=600>
 
 ## Requirements
 Tensorflow 1.15
