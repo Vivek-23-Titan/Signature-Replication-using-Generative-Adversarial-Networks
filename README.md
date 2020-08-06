@@ -30,6 +30,8 @@ New training dataset is formed having 500 original images and 500 generated imag
 
 ### The training history of VGG19 trained on the new dataset
 
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/History_94_2500_Epochs.PNG" width=450>
+
 The model approximately achieves 95% accuracy
 
 ### Confusion matrix for classification of the real and generated signatures
