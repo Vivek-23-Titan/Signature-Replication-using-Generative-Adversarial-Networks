@@ -33,7 +33,7 @@ New datasets are formed by:
 
 ### The training history of VGG19 trained on the new dataset
 
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/History_94_2500_Epochs.PNG" width=700>
+<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Training_History_99.8.PNG" width=700>
 
 * The model achieves approximately 95% accuracy when trained over 2500 epochs.
 
