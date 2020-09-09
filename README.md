@@ -61,9 +61,11 @@ New datasets are formed by:
 ### Classification of validation/test set
 3000 signature images were generated and classified using a CNN trained on the original 1000 signature dataset. The confusion matrix of the validation/test set is shown below.
 
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Confusion_Matrix.PNG" width=500>
+<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_0.9997.PNG" width=500>
+<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_Metrics0.9997.PNG" width=500>
 
-* The final accuracy achieved is 98%.
+
+* The final accuracy achieved is 99.97%.
 
 ## Requirements
 Tensorflow 2.3
