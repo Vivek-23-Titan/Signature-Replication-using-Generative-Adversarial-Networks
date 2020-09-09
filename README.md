@@ -45,7 +45,8 @@ New datasets are formed by:
 
 * Since the this is a classification problem, hence, for predicting **Softmax** (signature with highest probability is the output class) function can be employed in case of signature classes.
 
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Confusion_Matrix_95.267_Precision_85.4_R.PNG" width=400>
+<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_99.5.PNG" width=400><img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_99.8.PNG" width=400>
+
 
 ## Requirements
 Tensorflow 1.15
