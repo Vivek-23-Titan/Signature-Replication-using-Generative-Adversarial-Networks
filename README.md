@@ -6,10 +6,9 @@ This IAS SRPF-2019 Project focuses on generating signatures along with their lab
 The Dataset consists of 1000 signatures, subdivided into 10 different signature classes. Further information is available [here](http://www.reports.ias.ac.in/report/20439/signature-replication-and-fingerprint-bio-metric-forging-using-generative-adversarial-network).
 
 ## Code
-The Code is available in the [Jupyter notebook](https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Copy_of_Signatures_CGAN.ipynb).
 
-1. Multi-Label Classification (with adversarial noise). <a href="https://colab.research.google.com/github/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Multi_Label_Signatures_CGAN.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-2. Classification of real+fake images (without adversarial noise).<a href="https://colab.research.google.com/github/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Copy_of_Signatures_CGAN.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+1. Multi-Label Classification (with adversarial noise): [Jupyter notebook](Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Multi_Label_Signatures_CGAN.ipynb).
+2. Classification of real+fake images (without adversarial noise): [Jupyter notebook](Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Multi_Label_Signatures_CGAN.ipynb).
 
 ## Results
 ### The original and generated images
