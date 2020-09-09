@@ -51,4 +51,4 @@ New datasets are formed by:
 
 
 ## Requirements
-Tensorflow 1.15
+Tensorflow 2.3
