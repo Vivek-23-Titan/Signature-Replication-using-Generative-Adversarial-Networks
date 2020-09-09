@@ -31,11 +31,12 @@ New datasets are formed by:
 2. **Validation data:** 100 real and 100 fake images.
 3. **Test data:** 500 real and 500 fake images.
 
-### The training history of VGG19 trained on the new dataset
+* The generated images consist of adversarial noise which helps a classifier (or discriminator model) to differentiate between real fake images.
+* The Multi-Label ground truths consists of 10 one hot encoded vectors for each signature class and the 11th number for respresents 1 for real and 0 for fake signatures.
+
+### The training history of Multi-Label CNN trained on the new dataset
 
 <img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Training_History_99.8.PNG" width=700>
-
-* The model achieves approximately 95% accuracy when trained over 2500 epochs.
 
 ### Confusion matrix for classification of the real and generated signatures
 
