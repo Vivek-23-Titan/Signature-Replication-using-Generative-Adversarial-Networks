@@ -43,7 +43,7 @@ New datasets are formed by:
 
 ### Validation and Test dataset confusion matrix for classification
 
-* Since the this is a classification problem, hence, for predicting **Softmax** function can be employed in case of signature classes.
+* Since the this is a classification problem, hence, for predicting **Softmax** (signature with highest probability is the output class) function can be employed in case of signature classes.
 
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Confusion_Matrix_95.267_Precision_85.4_R.PNG" width=400>
 
