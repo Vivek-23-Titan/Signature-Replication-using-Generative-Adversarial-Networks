@@ -1,5 +1,4 @@
 # Signature-Replication-using-Generative-Adversarial-Networks
-<a href="https://colab.research.google.com/github/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/blob/master/Copy_of_Signatures_CGAN.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This IAS SRPF-2019 Project focuses on generating signatures along with their labels of 10 classes with the help of CGAN. To separate the signature classes and determine whether the signatures are genuine or generated (signatures with adversarial noise), multi-label classified is used. Also, when the adversarial noise is removed, with the help of a CNN classifier, the images can be classified into the 10 classes however, cannot distinguished as real or fake since, the classifiers exploit adversarial noise.
 
@@ -8,6 +7,9 @@ The Dataset consists of 1000 signatures, subdivided into 10 different signature 
 
 ## Code
 The Code is available in the [Jupyter notebook](https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Copy_of_Signatures_CGAN.ipynb).
+
+1. Multi-Label Classification (with adversarial noise). <a href="https://colab.research.google.com/github/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Multi_Label_Signatures_CGAN.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+2. Classification of real+fake images (without adversarial noise).<a href="https://colab.research.google.com/github/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Copy_of_Signatures_CGAN.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Results
 ### The original and generated images
