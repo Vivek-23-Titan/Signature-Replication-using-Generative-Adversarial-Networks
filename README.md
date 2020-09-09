@@ -27,9 +27,9 @@ The Code is available in the [Jupyter notebook](https://github.com/Vivek-23-Tita
 
 ### Multi-Label Classification of the signatures into real and fake (with adversarial noise)
 New datasets are formed by:
-1. Training data: 400 real and 400 fake images.
-2. Validation data: 100 real and 100 fake images.
-3. Test data: 500 real and 500 fake images.
+1. **Training data:** 400 real and 400 fake images.
+2. **Validation data:** 100 real and 100 fake images.
+3. **Test data:** 500 real and 500 fake images.
 
 ### The training history of VGG19 trained on the new dataset
 
