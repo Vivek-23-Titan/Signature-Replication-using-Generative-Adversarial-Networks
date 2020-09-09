@@ -45,10 +45,15 @@ New datasets are formed by:
 
 * Since the this is a classification problem, hence, for predicting **Softmax** (signature with highest probability is the output class) function can be employed in case of signature classes.
 
+#### Signature Classification (Validation and Testing Data)
+
 <img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_99.5.PNG" width=400><img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_99.8.PNG" width=400>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_Metrics_99.8.PNG" width=350>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_Metrics_99.5.PNG" width=350>
 
+#### Real or Fake Classification (Validation and Testing Data)
+
+<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Fake_Confusion_Matrix.PNG" width=400><img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Fake_Confusion_Matrix_99.5.PNG" width=400>
 
 ## Requirements
 Tensorflow 2.3
