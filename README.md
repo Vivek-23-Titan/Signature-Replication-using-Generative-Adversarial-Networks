@@ -39,6 +39,8 @@ New datasets are formed by:
 
 <img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Training_History_99.8.PNG" width=700>
 
+* The accuracies reach ~80% for training and ~90% for validation data, however these accuracies are based on **Sigmoid** activation function.
+
 ### Confusion matrix for classification of the real and generated signatures
 
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Confusion_Matrix_95.267_Precision_85.4_R.PNG" width=400>
