@@ -7,8 +7,8 @@ The Dataset consists of 1000 signatures, subdivided into 10 different signature 
 
 ## Code
 
-1. Multi-Label Classification (with adversarial noise): [Jupyter notebook](Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Multi_Label_Signatures_CGAN.ipynb).
-2. Classification of real+fake images (without adversarial noise): [Jupyter notebook](Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Multi_Label_Signatures_CGAN.ipynb).
+1. Multi-Label Classification (with adversarial noise): [Jupyter notebook](https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Multi_Label_Signatures_CGAN.ipynb).
+2. Classification of real+fake images (without adversarial noise): [Jupyter notebook](https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Copy_of_Signatures_CGAN.ipynb).
 
 ## Results
 ### The original and generated images
