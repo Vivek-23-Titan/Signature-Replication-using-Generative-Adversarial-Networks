@@ -40,11 +40,12 @@ New datasets are formed by:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_Metrics_99.8.PNG" width=350>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_Metrics_99.5.PNG" width=350>
 
+* The Signature classification results for validation data is 99.5% and for 99.8% for test data respectively.
+
 #### Real or Fake Classification (Validation and Testing Data)
 
 <img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Fake_Confusion_Matrix.PNG" width=400><img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Fake_Confusion_Matrix_99.5.PNG" width=400>
 
-* The Signature classification results for validation data is 99.5% and for 99.8% for test data respectively.
 * In case of real vs fake, for both the datasets, the classification accuracy remains 100%.
 
 ### The training history of Deep Convolutional Classifier
