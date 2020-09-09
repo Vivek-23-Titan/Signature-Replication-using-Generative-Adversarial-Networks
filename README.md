@@ -1,4 +1,4 @@
-# Signature-Replication-using-Generative-Adversarial-Networks
+# Signature Replication using Generative Adversarial Networks
 
 This IAS SRPF-2019 Project focuses on generating signatures along with their labels of 10 classes with the help of CGAN. To separate the signature classes and determine whether the signatures are genuine or generated (signatures with adversarial noise), multi-label classified is used. Also, when the adversarial noise is removed, with the help of a CNN classifier, the images can be classified into the 10 classes however, cannot distinguished as real or fake since, the classifiers exploit adversarial noise.
 
