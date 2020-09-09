@@ -41,7 +41,9 @@ New datasets are formed by:
 
 * The accuracies reach ~80% for training and ~90% for validation data, however these accuracies are based on **Sigmoid** activation function.
 
-### Confusion matrix for classification of the real and generated signatures
+### Validation and Test dataset confusion matrix for classification
+
+* Since the this is a classification problem, hence, for predicting **Softmax** function can be employed in case of signature classes.
 
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Confusion_Matrix_95.267_Precision_85.4_R.PNG" width=400>
 
