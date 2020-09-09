@@ -36,9 +36,9 @@ New datasets are formed by:
 
 #### Signature Classification (Validation and Testing Data)
 
-<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_99.5.PNG" width=300><img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_99.8.PNG" width=300>
+<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_99.5.PNG" width=350><img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_99.8.PNG" width=350>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_Metrics_99.8.PNG" width=270>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_Metrics_99.5.PNG" width=270>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_Metrics_99.8.PNG" width=270>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_Metrics_99.5.PNG" width=270>
 
 * The Signature classification results for validation data is 99.5% and for 99.8% for test data respectively.
 
@@ -59,8 +59,8 @@ New datasets are formed by:
 ### Classification of validation/test set
 3000 signature images were generated and classified using a CNN trained on the original 1000 signature dataset. The confusion matrix of the validation/test set is shown below.
 
-<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_0.9997.PNG" width=300>
-<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_Metrics0.9997.PNG" width=270>
+<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_0.9997.PNG" width=350>
+<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_Metrics0.9997.PNG" width=300>
 
 
 * The final accuracy achieved is 99.97%.
