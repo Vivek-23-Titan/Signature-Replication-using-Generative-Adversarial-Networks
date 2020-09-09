@@ -47,7 +47,7 @@ New datasets are formed by:
 
 <img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_99.5.PNG" width=400><img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_99.8.PNG" width=400>
 
-<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_Metrics_99.8.PNG" width=350>&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_Metrics_99.5.PNG" width=350>
+<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Confusion_Matrix_Metrics_99.8.PNG" width=350>;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Signature_Confusion_Matrix_Metrics_99.5.PNG" width=350>
 
 
 ## Requirements
