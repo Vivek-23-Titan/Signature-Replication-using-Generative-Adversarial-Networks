@@ -13,18 +13,6 @@ The Code is available in the [Jupyter notebook](https://github.com/Vivek-23-Tita
 ### The original and generated images
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Signatures2.PNG" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Dataset_Gen_Signatures.PNG" width=400>
 
-### The training history of Multi-Label Deep Convolutional Classifier
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Training_History.PNG" width=450>
-
-* The graph is underfitting due to high dropout of 0.6.
-
-### Classification of validation/test set
-3000 signature images were generated and classified using a CNN trained on the original 1000 signature dataset. The confusion matrix of the validation/test set is shown below.
-
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Confusion_Matrix.PNG" width=500>
-
-* The final accuracy achieved is 98%.
-
 ### Multi-Label Classification of the signatures into real and fake (with adversarial noise)
 New datasets are formed by:
 1. **Training data:** 400 real and 400 fake images.
@@ -40,6 +28,7 @@ New datasets are formed by:
 <img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Training_History_99.8.PNG" width=700>
 
 * The accuracies reach ~80% for training and ~90% for validation data, however these accuracies are based on **Sigmoid** activation function.
+* The graph is underfitting due to high dropout of 0.6.
 
 ### Validation and Test dataset confusion matrix for classification
 
@@ -54,6 +43,26 @@ New datasets are formed by:
 #### Real or Fake Classification (Validation and Testing Data)
 
 <img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Fake_Confusion_Matrix.PNG" width=400><img src="https://github.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/blob/master/Images/Fake_Confusion_Matrix_99.5.PNG" width=400>
+
+* The Signature classification results for validation data is 99.5% and for 99.8% for test data respectively.
+* In case of real vs fake, for both the datasets, the classification accuracy remains 100%.
+
+### The training history of Deep Convolutional Classifier
+
+* A classifier can differentiate real images from images with adversarial noise, however,the images are stored or corresponding signature images are converted into the standard 256 gray intensity level.
+* This results in the loss of adversial noise since the pixel values now take on discrete integer intensity values.
+* After removing the adversarial noise, a regular CNN is trained on fake+real images, and the classifier (or the discriminator) can no longer distinguish real from fake images.
+
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Training_History.PNG" width=450>
+
+* The graph is underfitting due to high dropout of 0.6.
+
+### Classification of validation/test set
+3000 signature images were generated and classified using a CNN trained on the original 1000 signature dataset. The confusion matrix of the validation/test set is shown below.
+
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Signature-Replication-using-Generative-Adversarial-Networks/master/Images/Confusion_Matrix.PNG" width=500>
+
+* The final accuracy achieved is 98%.
 
 ## Requirements
 Tensorflow 2.3
