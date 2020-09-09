@@ -33,6 +33,7 @@ New datasets are formed by:
 
 * The generated images consist of adversarial noise which helps a classifier (or discriminator model) to differentiate between real fake images.
 * The Multi-Label ground truths consists of 10 one hot encoded vectors for each signature class and the 11th number for respresents 1 for real and 0 for fake signatures.
+* Since Multi-Label classifications treats each output neuron as independent, hence sigmoid activation function with binary categorical loss is using for training.
 
 ### The training history of Multi-Label CNN trained on the new dataset
 
