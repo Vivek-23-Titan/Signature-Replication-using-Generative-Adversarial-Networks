@@ -26,7 +26,10 @@ The Code is available in the [Jupyter notebook](https://github.com/Vivek-23-Tita
 * The final accuracy achieved is 98%.
 
 ### Multi-Label Classification of the signatures into real and fake (with adversarial noise)
-New training dataset is formed having 400 original images and 400 generated images and the test set now consists of the remaining 500 original images and the 2500 generated images.
+New datasets are formed by:
+1. Training data: 400 real and 400 fake images.
+2. Validation data: 100 real and 100 fake images.
+3. Test data: 500 real and 500 fake images.
 
 ### The training history of VGG19 trained on the new dataset
 
